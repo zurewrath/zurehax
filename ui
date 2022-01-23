@@ -1,2 +1,0 @@
-local GuiService = game:GetService("StarterGui")
-GuiService:SetCore("SendNotification", {Title = "[Zurehax]";Text = "Your computor has been hacked by D4SHIIE and GAMEBOY4466 Your HWID is JHG-939D-391CA";})
